@@ -6,7 +6,7 @@
     "Wilddog"
   ],
   "description": "wilddog sdk for bower",
-  "main": "wilddog.js",
+  "main": "wilddog-web-all.js",
   "keywords": [
     "wilddog",
     "websocket",
